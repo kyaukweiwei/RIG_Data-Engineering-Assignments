@@ -5,6 +5,8 @@ My Data Engineering PDF and SQL assignments
 
 A collection of student assignments related to data engineering topics, submitted as part of coursework and learning practice.
 
+---
+
 ## 📌 Project Overview
 
 - This repository contains assignments completed by a student as part of data engineering learning activities.
